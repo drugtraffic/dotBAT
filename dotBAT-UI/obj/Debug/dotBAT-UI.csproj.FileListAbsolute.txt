@@ -1,0 +1,12 @@
+C:\Users\cum\Desktop\dotBAT-main\dotBAT-UI\bin\Debug\dotBAT-UI.exe.config
+C:\Users\cum\Desktop\dotBAT-main\dotBAT-UI\bin\Debug\dotBAT-UI.exe
+C:\Users\cum\Desktop\dotBAT-main\dotBAT-UI\bin\Debug\dotBAT-UI.pdb
+C:\Users\cum\Desktop\dotBAT-main\dotBAT-UI\bin\Debug\FastColoredTextBox.dll
+C:\Users\cum\Desktop\dotBAT-main\dotBAT-UI\obj\Debug\dotBAT-UI.csproj.AssemblyReference.cache
+C:\Users\cum\Desktop\dotBAT-main\dotBAT-UI\obj\Debug\dotBAT_UI.MainForm.resources
+C:\Users\cum\Desktop\dotBAT-main\dotBAT-UI\obj\Debug\dotBAT_UI.Properties.Resources.resources
+C:\Users\cum\Desktop\dotBAT-main\dotBAT-UI\obj\Debug\dotBAT-UI.csproj.GenerateResource.cache
+C:\Users\cum\Desktop\dotBAT-main\dotBAT-UI\obj\Debug\dotBAT-UI.csproj.CoreCompileInputs.cache
+C:\Users\cum\Desktop\dotBAT-main\dotBAT-UI\obj\Debug\dotBAT-UI.csproj.CopyComplete
+C:\Users\cum\Desktop\dotBAT-main\dotBAT-UI\obj\Debug\dotBAT-UI.exe
+C:\Users\cum\Desktop\dotBAT-main\dotBAT-UI\obj\Debug\dotBAT-UI.pdb
